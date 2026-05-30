@@ -1,1 +1,1 @@
-# Journal-Archives-and-Records-Manager
+# Journal Archives and Records Manager
