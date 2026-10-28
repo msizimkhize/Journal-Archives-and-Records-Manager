@@ -1,4 +1,4 @@
-# Journal Archives and Records Manager
+# Archives Manager
 
 A high-performance C++ desktop application built with the **Qt Framework** and orchestrated via **CMake**, designed for precise academic bookkeeping, data validation, and record archival management.
 
